@@ -1,0 +1,2 @@
+# logcollection
+log collection demo
